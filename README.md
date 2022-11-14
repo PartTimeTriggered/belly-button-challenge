@@ -1,4 +1,18 @@
+
+
 # Unit 14 Homework: Belly Button Biodiversity
+
+Please see below the outline of this homework assingment, to check the final product please visit 
+
+https://parttimetriggered.github.io/belly-button-challenge/
+
+This particular exercise was the most challenging to date as I found the jump from Python style progamming language to JavaScript quite hard. Though
+in the end I managed to create code that I was happy with. Please see both both app.js and bonus.js for required code.
+
+Please note the code is pulling data straight from the AWS link provided, the sample data in the "Data" folder is only there as a reference. Further to 
+this the "images" folder only has placeholder files that were used as a reference at the start of the project.
+
+==========================================================
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogues the microbes that colonise human navels.
 
